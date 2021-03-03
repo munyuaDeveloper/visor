@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "visor"
+    }
+  },
+  "defaultProject": "visor",
+  "cli": {
+    "analytics": false
+  }
 }
